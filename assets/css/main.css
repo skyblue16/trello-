@@ -1,0 +1,52 @@
+body{
+    margin: 0 auto;
+    background: rgb(96, 238, 248);
+
+}
+form{
+    display: inline-block;
+}
+#input{
+    background: rgb(20, 141, 255);
+    color: white;
+    margin-top: 40px;
+
+}
+.tarjetastrello{
+    border: 1px solid deepskyblue ;
+    width: 300px;
+    background: white;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 20px;
+
+}
+texto{
+    position: relative;
+    left: 100px;
+}
+.tarjetas{
+    display: block;
+    margin: 0px; 
+    width: 294px; 
+    height: 86px;
+    resize: none;
+    margin-left: 20px;
+}
+
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    background: rgb(6, 149, 231);
+    margin: 0;
+    padding: 20px;
+    color: white;
+
+}
+#añadir{
+    margin-left: 20px;
+}
+
+
